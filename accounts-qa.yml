@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Smita - QA Lead"
+    email: "smita@gmail.com"
+  onCallSupport:
+    - (666) 264-5465
+    - (666) 852-3259

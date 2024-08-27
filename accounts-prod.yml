@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Reine Aish - Product Owner"
+    email: "reine@gmail.com"
+  onCallSupport:
+    - (888) 264-5465
+    - (888) 852-3259
